@@ -1,0 +1,25 @@
+type project
+title
+    Newtonsoft.Json.Combinators
+owners
+    xavierzwirtz
+authors 
+    xavierzwirtz
+projectUrl
+    https://github.com/xavierzwirtz/Newtonsoft.Json.Combinators
+iconUrl
+    https://raw.githubusercontent.com/xavierzwirtz/Newtonsoft.Json.Combinators/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/xavierzwirtz/Newtonsoft.Json.Combinators/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    fsharp
+summary
+    Parser combinators for Newtonsoft.Json
+description
+    Parser combinators for Newtonsoft.Json
+
+
