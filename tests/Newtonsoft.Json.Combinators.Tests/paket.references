@@ -1,4 +1,7 @@
 FSharp.Core
+Chessie
+Newtonsoft.Json
+
 group Test
 NUnit
 NUnit.Runners

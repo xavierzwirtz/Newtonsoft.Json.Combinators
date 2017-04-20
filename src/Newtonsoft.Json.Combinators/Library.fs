@@ -324,6 +324,9 @@ module Combinators =
             { Path = []
               ParserErrorType = SyntaxError ex.Message }
             |> fail
+
+    let runParserStringObject value parser =
+        runParserString value (asObject >>= parser)
             
 module Serializer =
     let toJObject data =
